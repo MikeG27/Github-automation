@@ -13,7 +13,7 @@ This script automates git operations such as :
 
 ```bash
 git clone "https://github.com/MikeG27/github_automation.git"
-cd git
+cd Github-automation
 pip install -r requirements.txt
 
 Then go to config.py and set : 
