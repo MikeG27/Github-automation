@@ -12,7 +12,7 @@ This script automates git operations such as :
 ### Install: 
 
 ```bash
-git clone "https://github.com/MikeG27/github_automation.git"
+git clone "git@github.com:MikeG27/Github-automation.git"
 cd Github-automation
 pip install -r requirements.txt
 
