@@ -106,7 +106,7 @@ class BasicRepo(User):
         print("This class is responsible for creating/deleting/ printint repositories :)")
 
 
-class DataScienceBasicRepo(BasicRepo):
+class DataScienceRepo(BasicRepo):
 
     def clone(self):
         os.chdir(conf.PROJECTS_DIR)
