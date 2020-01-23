@@ -1,7 +1,7 @@
 import argparse
 
 import config as conf
-from git_hanlder import BasicRepo, DataScienceRepo
+from git_hanlder import BasicRepo, DataScienceBasicRepo
 
 
 def parser():
