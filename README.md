@@ -15,7 +15,9 @@ This script automates git operations such as :
 git clone "https://github.com/MikeG27/github_automation.git"
 cd Github-automation
 pip install -r requirements.txt
+```
 
+```bash
 Then go to config.py and set : 
  * username,
  * password,
