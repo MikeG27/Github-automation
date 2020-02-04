@@ -16,9 +16,10 @@ git clone "https://github.com/MikeG27/github_automation.git"
 cd Github-automation
 pip install -r requirements.txt
 ```
+### Configuration: 
 
+Then go to config.py and set :
 ```bash
-Then go to config.py and set : 
  * username,
  * password,
  * repository path,
