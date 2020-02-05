@@ -28,7 +28,7 @@ def main(args):
 
 def class_selector(args):
     if args.op == "create_ds":
-        repo_manager = DataScienceRepo()
+        repo_manager = DataScienceBasicRepo()
     else:
         repo_manager = BasicRepo()
     return repo_manager
